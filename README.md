@@ -1,2 +1,2 @@
 # hello-world
-Reppo created to learn github functionality
+Repo created to learn github functionality
